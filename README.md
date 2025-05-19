@@ -1,7 +1,6 @@
 # Geolocation with OpenStreetMap
 
 A responsive web application that retrieves your current location using browser geolocation and displays it on a map using OpenStreetMap's Nominatim API.
-![image](https://github.com/user-attachments/assets/70df249f-5d85-448f-ac59-bb1299150af1)
 
 
 
